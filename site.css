@@ -1,0 +1,55 @@
+body{
+  background-color: grey;
+}
+
+#divx{
+  margin-left: 500px;
+}
+
+#h1{
+  position:absolute;
+
+  up:10px;
+}
+
+#p1{
+  font-size:18px;
+  margin-top:50px;
+}
+
+#ul1{
+  position:absolute;
+  top:110px;
+  left:510px;
+}
+
+#p2{
+  position:absolute;
+  top:210px;
+  left:500px;
+  font-weight: bold;
+  font-size:16px;
+}
+
+
+#div01{
+   position: absolute;
+   top: 290px;
+   left:500px;
+   border: 1px solid #ffffff;
+   height:50px;
+   width:600px;
+   font-size:18px;
+   padding:20px;
+}
+
+#div02{
+  position: absolute;
+  top: 440px;
+  left:500px;
+  border: 1px solid #ffffff;
+  height:50px;
+  width:600px;
+  font-size:18px;
+  padding:20px;
+}
